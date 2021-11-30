@@ -6,5 +6,5 @@ E-Certificate ➡️ [Gcloud training badge collection](https://www.qwiklabs.com
 
 <a name="CoreTeamGSDC"></a>
 
-![GDSC Core Team](./image/DSCCoreTeam-Certificate2021.jpg)
+![GDSC Core Team](./image/CoreTeam_GDSC_2021.jpg)
 
